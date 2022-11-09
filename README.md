@@ -11,7 +11,7 @@ Actividad
 - Nombres Shomaira Anai
 - Apellidos Loor Loja
 - Edad 22 
-- Idioma Espanol
+- Idioma Español
 
 **DATOS DEL EQUIPO**
 - Nombre del dispositivo	DESKTOP-LKEFEJE
